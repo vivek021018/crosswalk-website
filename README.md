@@ -10,7 +10,7 @@ Any bugs for the website should be logged on the
 component.
 
 Pull requests for the website should be submitted via
-[github](https://github.com/crosswalk-project/crosswalk-website/pulls).
+[Github](https://github.com/crosswalk-project/crosswalk-website/pulls).
 
 This document gives an overview of the source and how to build the project
 on your system.
@@ -20,7 +20,7 @@ on your system.
 This static site for Crosswalk is built with:
 
 - [Node.js](http://nodejs.org)
-- [Harp](http://harpjs.com), the static web server with build-in preprocessing
+- [Harp](http://harpjs.com), the static web server with built-in preprocessing
 - [KSS](https://github.com/kss-node/kss-node), which creates the styleguide
 
 First, [install Node.js](http://nodejs.org). Then, run the following commands:
